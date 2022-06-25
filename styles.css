@@ -1,0 +1,9 @@
+.Lol{
+    animation-name: animation;
+    animation-duration: 3s;
+}
+
+@keyframes animation {
+    from{font-size: larger;}
+    to{font-size: small;}
+}
